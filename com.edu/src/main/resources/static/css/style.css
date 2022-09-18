@@ -1,0 +1,63 @@
+header 
+{
+    height: 90vh;
+    width: 100%;
+    
+    text-align: center;
+    padding-top: 150px;
+    
+    background-image: url([[@{/images/pexels-cottonbro-5473298.jpg}]]);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.ss1
+{
+    background-size: cover;
+    
+    height: 90vh;
+    width: 100%;
+    background-image: linear-gradient(to right , rgba(0,0,0,0.6),rgba(0,0,0,0.1)),url([[@{/images/pexels-olia-danilevich-4974912.jpg}]]);
+}
+
+.ss2
+{
+    padding-top: 150px;
+}
+
+.ss3
+{
+    height: 60vh;
+    width: 100%;
+
+}
+
+.bigger
+{
+    size: 5px;
+}
+
+#aaa1
+{
+    
+    height: 100vh;
+    width: 100%;
+    
+    text-align: center;
+    padding-top: 150px;
+    
+   
+    background-size: cover;
+    background-position: center;
+
+}
+
+.bigone
+{
+    word-spacing: 3px;
+   text-shadow: 10px 10px ,black;
+    font-size: larger;
+    font-weight: 500;
+}
+
